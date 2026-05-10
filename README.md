@@ -20,6 +20,12 @@ A high-performance, fully offline (serverless) Android image utility application
 - **Image Processing:** Native `ImageDecoder` APIs
 - **Concurrency:** Kotlin Coroutines & Flow
 
+## Download APK 📱
+
+You can download and install the latest version of the app directly on your Android device without building it from source.
+
+[**📥 Download Latest Release (APK)**](https://github.com/kartikpro9599-hash/imgCompressor-Formattor/releases/latest)
+
 ## Setup Instructions 💻
 
 1. Clone this repository:
