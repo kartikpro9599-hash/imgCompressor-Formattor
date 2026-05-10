@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Material 3 Adaptive Icon — Foreground
+    Camera shutter icon with cyan gradient, inspired by the brand design.
+    108×108dp canvas with 66dp safe zone centered at (54,54).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Outer circle glow ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:strokeAlpha="0.3"
+        android:pathData="M54,54m-38,0a38,38 0,1 1,76 0a38,38 0,1 1,-76 0" />
+
+    <!-- Camera body — rounded rectangle -->
+    <path
+        android:fillColor="#1A1A2E"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M30,38Q30,34 34,34L50,34L52,30Q53,28 55,28L61,28Q63,28 64,30L66,34L74,34Q78,34 78,38L78,66Q78,70 74,70L34,70Q30,70 30,66Z" />
+
+    <!-- Camera top flash bump -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.6"
+        android:pathData="M50,34L52,30Q53,28 55,28L61,28Q63,28 64,30L66,34Z" />
+
+    <!-- Lens outer ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2.5"
+        android:pathData="M54,52m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+
+    <!-- Lens middle ring -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#00BCD4"
+        android:strokeWidth="1.5"
+        android:pathData="M54,52m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- Lens inner circle — gradient feel -->
+    <path
+        android:fillColor="#0D47A1"
+        android:fillAlpha="0.4"
+        android:pathData="M54,52m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+
+    <!-- Lens highlight dot -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,52m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+
+    <!-- Lens specular highlight -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.5"
+        android:pathData="M50,47m-1.5,0a1.5,1.5 0,1 1,3 0a1.5,1.5 0,1 1,-3 0" />
+
+    <!-- Shutter blade 1 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.25"
+        android:pathData="M54,38L60,44L54,47Z" />
+
+    <!-- Shutter blade 2 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.20"
+        android:pathData="M40,52L47,46L48,52Z" />
+
+    <!-- Shutter blade 3 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.22"
+        android:pathData="M54,66L48,60L54,57Z" />
+
+    <!-- Shutter blade 4 -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.18"
+        android:pathData="M68,52L61,58L60,52Z" />
+
+    <!-- Compress arrows — bottom corners -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B388FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M24,24L30,30M24,24L24,28M24,24L28,24" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B388FF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M84,84L78,78M84,84L84,80M84,84L80,84" />
+
+</vector>

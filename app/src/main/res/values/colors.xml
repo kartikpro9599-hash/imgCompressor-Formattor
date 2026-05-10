@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep Charcoal — matches the Compose theme -->
+    <color name="splash_background">#121212</color>
+    <color name="deep_charcoal">#121212</color>
+    <color name="electric_cyan">#00E5FF</color>
+</resources>

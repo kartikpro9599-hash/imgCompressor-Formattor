@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Image Compressor &amp; Converter</string>
+    <string name="smart_compressor">Smart Compressor</string>
+    <string name="format_converter">Format Converter</string>
+    <string name="compressor_desc">Optimize images to your target file size with intelligent quality adjustment</string>
+    <string name="converter_desc">Convert images between JPG, PNG, WEBP, and PDF formats instantly</string>
+    <string name="select_image">Select Image</string>
+    <string name="compress">Compress</string>
+    <string name="convert">Convert</string>
+    <string name="save">Save to Gallery</string>
+    <string name="save_all">Save All</string>
+    <string name="quality">Quality</string>
+    <string name="target_size">Target Size (KB)</string>
+    <string name="original_size">Original Size</string>
+    <string name="compressed_size">Compressed Size</string>
+    <string name="compression_ratio">Compression Ratio</string>
+    <string name="source_format">Source Format</string>
+    <string name="target_format">Target Format</string>
+    <string name="processing">Processing…</string>
+    <string name="done">Done!</string>
+    <string name="error_pick_image">Please select an image first</string>
+    <string name="error_processing">Error processing image</string>
+    <string name="saved_successfully">Saved to gallery successfully</string>
+    <string name="no_images_selected">No images selected</string>
+    <string name="pick_images">Pick Images</string>
+    <string name="batch_progress">Processing %1$d of %2$d</string>
+</resources>

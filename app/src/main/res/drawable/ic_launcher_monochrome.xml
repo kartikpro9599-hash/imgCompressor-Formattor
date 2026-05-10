@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Monochrome version for Material You themed icons -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Camera body -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M30,38Q30,34 34,34L50,34L52,30Q53,28 55,28L61,28Q63,28 64,30L66,34L74,34Q78,34 78,38L78,66Q78,70 74,70L34,70Q30,70 30,66Z" />
+
+    <!-- Lens outer -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="2.5"
+        android:pathData="M54,52m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+
+    <!-- Lens inner -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,52m-7,0a7,7 0,1 1,14 0a7,7 0,1 1,-14 0" />
+
+</vector>

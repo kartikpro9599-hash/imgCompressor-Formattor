@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="Theme.ImgPro" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+
+    <!--
+        Splash screen theme — used ONLY by Activity android:theme in Manifest.
+        The SplashScreen API picks up these attributes to render the splash.
+    -->
+    <style name="Theme.ImgPro.Splash" parent="Theme.SplashScreen">
+        <!-- Deep Charcoal background (#121212) -->
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <!-- Cyan camera icon as center branding -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <!-- Transition to the real app theme after splash -->
+        <item name="postSplashScreenTheme">@style/Theme.ImgPro</item>
+    </style>
+
+</resources>
